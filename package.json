@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "debug": "^2.1.3",
-    "mubsub": "^1.0.4"
+    "mubsub": "ebourmalo/mubsub#fix-mongo3x"
   },
   "devDependencies": {
     "feathers": "^1.0.2",
